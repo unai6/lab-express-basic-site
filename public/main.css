@@ -1,0 +1,28 @@
+*{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+body {
+    background: whitesmoke
+}
+
+.nav-bar{
+    display:flex;
+    justify-content: flex-end;
+    margin-right:20px;
+    
+}
+
+.nav-a{
+    color:  black;
+    text-decoration:none;
+    padding:10px;
+    font-weight:bold;
+}
+
+.aside-text{
+    width:40%;
+    text-align:justify;
+    line-height: 1.5em;
+
+}
